@@ -4,6 +4,9 @@ body {
     padding-left: 0px;
     padding-right: 0px;
     font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    
 
 }
 
@@ -57,6 +60,7 @@ p {
     background-color: #D988B9;
     padding-left: 200px;
     padding-right: 200px;
+    flex-shrink: 1;
 
 
 }
@@ -176,5 +180,12 @@ h4{
   justify-content: center; 
   padding-top: 100px;
   padding-bottom: 80px;
+  background-color:#f7f0ed ;
 
+}
+/*-------------------------------------------------------------------------------------*/
+.footer{
+    background-color: #D988B9;
+    text-align: center;
+    padding: 20px;
 }
