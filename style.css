@@ -38,6 +38,10 @@ h1 {
     font-weight: bolder;
 }
 
+span{
+    color: yellow;
+}
+
 p {
     font-size: 18px;
 }
